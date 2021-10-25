@@ -15,3 +15,5 @@ The resulting figure shows that the strike zone drastically shrinks in 0-2 count
 Marchi, M., Albert, J. and Baumer, B. S.: "Analyzing Baseball Data with R (2nd ed.)," Chapman and Hall/CRC (2018)
 
 James, G., Witten, D., Hastie, T. and Tibshirani, R.: "An Introduction to Statistical Learning with Applications in R," Springer Science+Business Media, New York (2013)
+
+Green, E. and Daniels, D.: "Bayesian Instinct," Available at SSRN: https://ssrn.com/abstract=2916929 (2021)
