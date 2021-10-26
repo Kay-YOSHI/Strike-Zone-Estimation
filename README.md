@@ -3,11 +3,11 @@
 This repository contains R code for estimating strike zone in Major League Baseball (MLB). 
 I used the statcast pitch-by-pitch data on all regular season games in 2019, collected by using the R package "mlbr" (https://github.com/pontsuyu/mlbr). 
 
-In Strike_Zone.R, 
+First, 
 I estimated called strike probability by fitting a smooth polynomial surface to dummy variable indicating called strike or ball 
 as a function of the horizontal and vertical locations. Then, I visualized it by contour plot. 
-In addition, 
-I estimated the strike zone by Support Vector Machine and compared the result with the one from local polynomial regression.
+Second, 
+I estimated the strike zone by Support Vector Machine and compared the result with the one from local polynomial regression. 
 
 ## References
 
