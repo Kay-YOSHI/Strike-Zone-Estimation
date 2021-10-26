@@ -5,8 +5,7 @@ I used the statcast pitch-by-pitch data on all regular season games in 2019, col
 
 In Strike_Zone.R, 
 I estimated called strike probability by fitting a smooth polynomial surface to dummy variable indicating called strike or ball 
-as a function of the horizontal and vertical locations. 
-Then, I visualized it by contour plot. 
+as a function of the horizontal and vertical locations. Then, I visualized it by contour plot. 
 In addition, 
 I estimated the strike zone by Support Vector Machine and compared the result with the one from local polynomial regression.
 
