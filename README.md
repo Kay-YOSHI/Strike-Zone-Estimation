@@ -17,3 +17,5 @@ Marchi, M., Albert, J. and Baumer, B. S.: "Analyzing Baseball Data with R (2nd e
 James, G., Witten, D., Hastie, T. and Tibshirani, R.: "An Introduction to Statistical Learning with Applications in R," Springer Science+Business Media, New York (2013)
 
 Green, E. and Daniels, D.: "Bayesian Instinct," Available at SSRN: https://ssrn.com/abstract=2916929 (2021)
+
+Mills, B.: "Expert Workers, Performance Standards, and On-the-Job Training: Evaluating Major League Baseball Umpires," Available at SSRN: https://ssrn.com/abstract=2478447 (2014)
