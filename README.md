@@ -8,6 +8,8 @@ I estimated called strike probability by fitting a smooth polynomial surface to 
 as a function of the horizontal and vertical locations. Then, I visualized it by contour plot. 
 Second, 
 I estimated the strike zone by Support Vector Machine and compared the result with the one from local polynomial regression. 
+Finally, 
+I estimated the strike zone by B-S count and investigated the size difference between counts.
 
 ## References
 
